@@ -1,12 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Header from './components/Header/Header'
+import TinderCards from './components/TinderCards/TinderCards';
 function App() {
   return (
     <div className="App">
-      Let's Build Tinder CLone Guys
-      {/* Header */}
-      {/* Tinder Cards */}
+      <Header/>
+      <TinderCards/>
       {/* Swipe Buttons */}
     </div>
   );
