@@ -9,7 +9,7 @@ const TinderCards = () => {
         },
         {
             name:"Jeff Bezos",
-            url:""
+            url:" "
         }
     ])
     return (
