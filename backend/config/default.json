@@ -1,0 +1,4 @@
+{
+  "mongoUri": "mongodb+srv://hardik:tinder@cluster0.ebgxq.mongodb.net/tinder-clone",
+  "jsonWebToken": "SecretKey"
+}
